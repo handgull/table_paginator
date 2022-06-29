@@ -1,7 +1,7 @@
 name: table_paginator
 description: A simple paginator.
 version: 0.0.1
-homepage:
+homepage: https://github.com/handgull/table_paginator
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
